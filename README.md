@@ -20,6 +20,14 @@ That's it. Do this before you even open this app.
 
 ---
 
+## 🖥️ Screenshot
+
+![TapoBulbController1453](tapo.png)
+
+---
+
+---
+
 ## 📥 Download
 
 **[⬇️ Download TapoBulbController1453.exe](../../releases/latest)**
