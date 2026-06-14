@@ -90,12 +90,13 @@ Output will be at `dist\TapoBulbController1453.exe`
 ---
 
 ## 📁 Repo Structure
-├── tapo_control_ipscan.py    # Main app (latest)
-├── tapo_control_profiles.py  # Version with profile support (older)
-├── tapo_control.py           # Early version
-├── bulb_control.py           # Initial test script
-├── rainbow.py                # Rainbow effect experiment
-└── icon.ico                  # App icon
+
+- **tapo_control_ipscan.py** — Main app, latest version with network scan and profile support
+- **tapo_control_profiles.py** — Older version with profiles, before the network scan feature
+- **tapo_control.py** — Early version, basic controls only
+- **bulb_control.py** — Initial test script, the very first prototype
+- **rainbow.py** — Rainbow effect experiment (didn't make it into the main app)
+- **icon.ico** — App icon
 
 ---
 
@@ -109,7 +110,10 @@ Output will be at `dist\TapoBulbController1453.exe`
 
 ## 📝 License
 
-Personal project — no license, no warranty. Do whatever you want with it.
+
+GPL-3.0 — because [python-kasa](https://github.com/python-kasa/python-kasa) 
+and [PyQt6](https://www.riverbankcomputing.com/software/pyqt/) are both GPL-3.0 licensed,
+this project inherits the same license. Source code is fully available in this repo.
 
 ---
 
