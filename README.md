@@ -1,4 +1,4 @@
-# 💡 Tapo Bulb Controller 1453
+# 💡 Tapo Bulb Controller
 
 > **Note:** This is a personal vibecoding project built for my own use. The UI is in Turkish, but it's straightforward enough that you don't really need to know Turkish to use it — sliders, color pickers, and buttons are pretty universal.
 
